@@ -9,16 +9,21 @@
 
 ## Why
 
-* Encode __constraints and assumptions__ as part of __developer intent__.
+* __Constraints and assumptions__ as part of __developer intent__.
 * __Catch common mistakes__.
 * Move some __runtime errors to compile time__.
-* Provide your consumers (including yourself) with a __great DX__ (Developer Experience).
 
 ## Fundamentals
 
-* __Adding type information__ to variables, functions and classes.
+* __Type information__ for variables, functions and classes.
 * Configuring the compiler.
-* Practical strategy for incrementally __converting JS to TS__.
+* Type Systems & Type Equivalence
+  * Nominal: class/type
+  * Structural (TS): shapes
 * __Parameterizing interfaces and type aliases__ with generics.
 * Conditional, mapped and branded types.
 * TS Compiler API basics.
+
+## TOC
+
+* [Basics, varibales & types](./basics)
