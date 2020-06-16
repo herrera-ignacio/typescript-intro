@@ -32,3 +32,4 @@
 * [Classes](./basics/classes.ts)
 * [Generics (Templates)](./basics/generics.ts)
 * [Guards and Extreme types](./basics/guards-and-extremes.ts)
+* [Advanced Types](./basics/advanced-types.ts)
