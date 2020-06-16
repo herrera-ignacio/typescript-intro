@@ -17,7 +17,7 @@ export interface ContactWithInternationalPhone extends ContactWithPhone {
 
 //== CALL SIGNATURES ==//
 
-interface Contact1 {
+export interface Contact1 {
     (contact: ContactWithEmail | ContactWithPhone, message: string) : void;
 }
 
