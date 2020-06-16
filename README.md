@@ -26,4 +26,6 @@
 
 ## TOC
 
-* [Basics, varibales & types](./basics)
+* [Basics, varibales & types](./basics/basics.ts)
+* [Function args and return types](./basics/functions.ts)
+* [Interfaces, types, access modifier, heritage clauses](./basics/interfaces.ts)
