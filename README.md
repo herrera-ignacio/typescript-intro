@@ -33,3 +33,4 @@
 * [Generics (Templates)](./basics/generics.ts)
 * [Guards and Extreme types](./basics/guards-and-extremes.ts)
 * [Advanced Types](./basics/advanced-types.ts)
+* [Declaration Merging](./basics/declaration-merging.ts)
