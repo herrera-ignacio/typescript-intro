@@ -30,3 +30,5 @@
 * [Function args and return types](./basics/functions.ts)
 * [Interfaces, types, access modifier, heritage clauses](./basics/interfaces.ts)
 * [Classes](./basics/classes.ts)
+* [Generics (Templates)](./basics/generics.ts)
+* [Guards and Extreme types](./basics/guards-and-extremes.ts)
