@@ -53,3 +53,16 @@ abstract class AbstractContact implements ContactWithEmail {
 
     abstract sendEmail(): void;
 }
+
+class ConcreteContact extends AbstractContact {
+    constructor (
+        public phone: number,
+        name: string,
+        email: string
+    ) {
+        super(name, email);
+    }
+    sendEmail() {
+        console.log('Sending email!');
+    }
+}
